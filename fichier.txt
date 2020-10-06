@@ -1,3 +1,12 @@
 Modification poul
 mono
+<<<<<<< HEAD
 moDFd
+=======
+moDF
+
+mmmm parti 2
+lolo
+momo
+popo
+>>>>>>> dev
